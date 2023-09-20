@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://scontent-ccu1-1.xx.fbcdn.net/v/t39.30808-6/348448560_1261415627821249_4738561071427233067_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGXBgA-fOpg0DSgVuDE1FMK6YRmrq8sdxnphGauryx3GQu2Qj9nVALAk-_V73gJBl_d6a1TD0kA2PGex7pQHvES&_nc_ohc=L-eRzP5xyHgAX9hSqng&_nc_ht=scontent-ccu1-1.xx&oh=00_AfBYh4XNkL0f-aVBZnnO11dmBbu-SDaV0sC9zxCOOn4vag&oe=650F2519)
 
-### Hi there 👋, my name is Arturs
+# Hi there 👋, my name is Shakib Khan Sourov
 #### I am GitHub Readme Generator's creator
 Skills: HTML/CSS/C/C++/PYTHON/MYSQL
 
