@@ -1,15 +1,7 @@
 ### Hi there 👋, my name is Shakib Khan sourov
 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- ⚡ Fun fact:  I love to eat and travel 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakibkhan13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/showrov.hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/md_shakib_khan_sourov12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdShakibkhan019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](mdshakib2003)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githu### Hi there 👋, my name is Shakib Khan sourov
-
-- 🌱 I’m currently learning Javascript 
+ 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
 - ⚡ Fun fact:  I love to eat and travel 
 
