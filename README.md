@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Shakib Khan sourov
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
 - ⚡ Fun fact:  I love to eat and travel 
