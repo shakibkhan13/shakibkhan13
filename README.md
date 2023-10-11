@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhan13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhan13"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakibkhan13" alt="shakibkhan13" /></a> </p>
 
