@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
-<p align="left"> <img src="https://github.com/shakibkhan13username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhan13" /> </p>
-<p align="left"> <a href="https://twitter.com/md shakib khan" target="blank"><img src="https://img.shields.io/twitter/follow/md shakib khan?logo=twitter&style=for-the-badge" alt="md shakib khan" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhan13" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakibkhan13" alt="shakibkhan13" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@mdshakibkhan019" target="blank"><img src="https://img.shields.io/twitter/follow/@mdshakibkhan019?logo=twitter&style=for-the-badge" alt="@mdshakibkhan019" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -10,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/md shakib khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md shakib khan" height="30" width="40" /></a>
+<a href="https://twitter.com/@mdshakibkhan019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdshakibkhan019" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shakib" height="30" width="40" /></a>
-<a href="https://fb.com/showrov.hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourov hasan" height="30" width="40" /></a>
+<a href="https://fb.com/sourov hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourov hasan" height="30" width="40" /></a>
 <a href="https://instagram.com/md_shakib_khan_sourov12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_shakib_khan_sourov12" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/md_shakib_khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="md_shakib_khan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/md shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md shakib" height="30" width="40" /></a>
