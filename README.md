@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
+<h3 align="center">A passionate programmer</h3>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" alt="shakibkhan13"/></p>
+<img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=400 height=660 frameBorder="0" allowFullScreen></img>
 
 
 
