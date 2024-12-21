@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mdshakibkhan019" target="blank"><img src="https://img.shields.io/twitter/follow/@mdshakibkhan019?logo=twitter&style=for-the-badge" alt="@mdshakibkhan019" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **mds893472@gmail.com**
 
