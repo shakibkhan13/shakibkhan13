@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;App+Developer;Web+Developer;Software+Engineer;React+%7C+Node+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Passionate+Programmer;Learning+Express.js;Love+to+Eat+%F0%9F%8D%94+%26+Travel+%F0%9F%8C%8D" />
 </p>
 
-<h3 align="center">💻 A Passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">💻 A Passionate Programmer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakibkhan13&label=Profile%20views&color=0e75b6&style=flat" />
@@ -17,7 +17,6 @@
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Express.js**  
-- 💡 Focused on **Full Stack Development (React + Node + Express + PostgreSQL)**  
 - 📫 Reach me at **mds893472@gmail.com**  
 - ⚡ Fun fact: **I love to eat 🍔 and travel 🌍**
 
@@ -26,9 +25,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/@mdshakibkhan019">
-<img src="https://img.shields.io/twitter/follow/@mdshakibkhan019?logo=twitter&style=for-the-badge"/>
-</a>
+<a href="https://twitter.com/@mdshakibkhan019"><img src="https://img.shields.io/twitter/follow/@mdshakibkhan019?logo=twitter&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -47,11 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql" />
-</p>
+## 🛠️ Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python" />
@@ -99,7 +92,7 @@
 ## ✨ Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Md+Shakib+Khan+Sourov;Full+Stack+Developer+🚀" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
