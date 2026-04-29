@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Passionate+Programmer;Learning+Express.js;Love+to+Eat+%F0%9F%8D%94+%26+Travel+%F0%9F%8C%8D" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=App+Developer;Web+Developer;Software+Engineer;Learning+Express.js;Love+to+Eat+%F0%9F%8D%94+%26+Travel+%F0%9F%8C%8D" />
 </p>
 
 <h3 align="center">💻 A Passionate Programmer from Bangladesh</h3>
