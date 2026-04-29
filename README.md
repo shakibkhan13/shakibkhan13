@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Shakib Khan Sourov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;App+Developer;Web+Developer;Software+Engineer;React+%7C+Node+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;App+Developer;Web+Developer;Software+Engineer;React+%7C+Node+%7C+Express+%7C+PostgreSQL;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">💻 A Passionate Full Stack Developer from Bangladesh</h3>
