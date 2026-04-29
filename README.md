@@ -92,7 +92,7 @@
 ## ✨ Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Md+Shakib+Khan+Sourov;Never+stop+learning+🚀" />
 </p>
 
 ---
