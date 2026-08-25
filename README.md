@@ -359,51 +359,6 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 
 ---
 
-
-<!-- ========================================================= -->
-<!--                    ACTIVITY GRAPH                         -->
-<!-- ========================================================= -->
-
-## ⚡ GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/shakibkhan13">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=shakibkhan13&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true"
-      alt="Shakib Khan Sourov GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
----
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ========================================================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
 <!-- ========================================================= -->
 
 ## 📚 Currently Learning
