@@ -359,57 +359,6 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 
 ---
 
-<!-- ========================================================= -->
-<!--                      GITHUB STATS                         -->
-<!-- ========================================================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shakibkhan13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibkhan13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                      GITHUB STREAK                        -->
-<!-- ========================================================= -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=shakibkhan13&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                     GITHUB TROPHIES                       -->
-<!-- ========================================================= -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shakibkhan13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 <!-- ========================================================= -->
 <!--                    ACTIVITY GRAPH                         -->
