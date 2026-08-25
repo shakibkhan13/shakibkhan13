@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                       PROFILE HEADER                      -->
-
 <!-- ========================================================= -->
 
 <h1 align="center">Hi there, I'm Md Shakib Khan Sourov 👋</h1>
@@ -40,270 +38,215 @@
   </a>
 </p>
 
-<!-- ========================================================= -->
+---
 
+<!-- ========================================================= -->
 <!--                         ABOUT ME                          -->
-
 <!-- ========================================================= -->
 
-🚀 About Me
+## 🚀 About Me
 
 <img
-align="right"
-alt="Coding"
-width="380"
-src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp"
+  align="right"
+  alt="Coding"
+  width="380"
+  src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp"
 />
 
-I'm a passionate Full Stack Developer and Software Engineer from Bangladesh 🇧🇩, focused on building scalable, modern, secure, and user-friendly software applications.
+I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh 🇧🇩**, focused on building scalable, modern, secure, and user-friendly software applications.
 
-👨‍💻 What I Do
+### 👨‍💻 What I Do
 
-🚀 Build modern Full Stack Web Applications
-
-⚛️ Develop frontend applications using React.js & Next.js
-
-🖥️ Build backend systems using Node.js & Express.js
-
-📱 Develop cross-platform mobile applications using Flutter
-
-🔗 Design and integrate RESTful APIs
-
-🗄️ Work with PostgreSQL, MongoDB & MySQL
-
-🔐 Implement authentication and authorization systems
-
-📊 Develop business management systems
-
-🛒 Build e-commerce platforms
-
-🚗 Develop transport management solutions
-
-☁️ Work with deployment and cloud technologies
-
-🧠 Continuously improve problem-solving and system design skills
+- 🚀 Build modern **Full Stack Web Applications**
+- ⚛️ Develop frontend applications using **React.js & Next.js**
+- 🖥️ Build backend systems using **Node.js & Express.js**
+- 📱 Develop cross-platform mobile applications using **Flutter**
+- 🔗 Design and integrate **RESTful APIs**
+- 🗄️ Work with **PostgreSQL, MongoDB & MySQL**
+- 🔐 Implement authentication and authorization systems
+- 📊 Develop business management systems
+- 🛒 Build e-commerce platforms
+- 🚗 Develop transport management solutions
+- ☁️ Work with deployment and cloud technologies
+- 🧠 Continuously improve problem-solving and system design skills
 
 <br clear="right"/>
 
-<!-- ========================================================= -->
+---
 
+<!-- ========================================================= -->
 <!--                      CURRENT FOCUS                        -->
-
 <!-- ========================================================= -->
 
-🎯 Current Focus
+## 🎯 Current Focus
 
-🌱 Deepening my knowledge of Node.js & Express.js
+- 🌱 Deepening my knowledge of **Node.js & Express.js**
+- ⚛️ Improving advanced **React.js & Next.js**
+- 🧠 Learning **System Design & Software Architecture**
+- 🔐 Improving application security
+- 🐳 Learning **Docker & DevOps**
+- ☁️ Exploring **Cloud Computing**
+- 🚀 Building production-ready applications
+- 📚 Practicing clean, scalable and maintainable code
 
-⚛️ Improving advanced React.js & Next.js
-
-🧠 Learning System Design & Software Architecture
-
-🔐 Improving application security
-
-🐳 Learning Docker & DevOps
-
-☁️ Exploring Cloud Computing
-
-🚀 Building production-ready applications
-
-📚 Practicing clean, scalable and maintainable code
+---
 
 <!-- ========================================================= -->
-
 <!--                       TECH STACK                         -->
-
 <!-- ========================================================= -->
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-💻 Frontend Development
+### 💻 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,mui" />
 </p>
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
 </p>
 
-📱 Mobile Development
+### 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-🗄️ Database
+### 🗄️ Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-🔧 Tools & DevOps
+### 🔧 Tools & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vercel,vscode,linux" />
 </p>
 
-<!-- ========================================================= -->
+---
 
+<!-- ========================================================= -->
 <!--                  PROGRAMMING LANGUAGES                    -->
-
 <!-- ========================================================= -->
 
-👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,c,dart,php" />
 </p>
 
-<!-- ========================================================= -->
+---
 
+<!-- ========================================================= -->
 <!--                       FRONTEND                            -->
-
 <!-- ========================================================= -->
 
-🎨 Frontend Technologies
+## 🎨 Frontend Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,html,css,javascript,typescript" />
 </p>
 
-Frontend Experience
+### Frontend Experience
 
-⚛️ React.js
+- ⚛️ React.js
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 🧩 Material UI
+- 🔄 Context API
+- 🗃️ Redux / Redux Toolkit
+- 📦 Zustand
+- 📝 React Hook Form
+- ✅ Zod
+- 🌐 REST API Integration
+- 📱 Responsive UI Development
 
-▲ Next.js
-
-🎨 Tailwind CSS
-
-🧩 Material UI
-
-🔄 Context API
-
-🗃️ Redux / Redux Toolkit
-
-📦 Zustand
-
-📝 React Hook Form
-
-✅ Zod
-
-🌐 REST API Integration
-
-📱 Responsive UI Development
+---
 
 <!-- ========================================================= -->
-
 <!--                         BACKEND                           -->
-
 <!-- ========================================================= -->
 
-⚙️ Backend Technologies
+## ⚙️ Backend Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
 </p>
 
-Backend Experience
+### Backend Experience
 
-🟢 Node.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🏗️ Nest.js
+- 🐘 PHP
+- 🔥 Laravel
+- 🔗 RESTful API Development
+- 🔐 JWT Authentication
+- 🔑 Role-Based Access Control
+- 📧 Email & OTP Verification
+- 📱 SMS API Integration
+- 💳 Payment Gateway Integration
+- ☁️ Cloudinary Integration
 
-🚂 Express.js
-
-🏗️ Nest.js
-
-🐘 PHP
-
-🔥 Laravel
-
-🔗 RESTful API Development
-
-🔐 JWT Authentication
-
-🔑 Role-Based Access Control
-
-📧 Email & OTP Verification
-
-📱 SMS API Integration
-
-💳 Payment Gateway Integration
-
-☁️ Cloudinary Integration
+---
 
 <!-- ========================================================= -->
-
 <!--                         DATABASE                          -->
-
 <!-- ========================================================= -->
 
-🗄️ Database Technologies
+## 🗄️ Database Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-Database Experience
+### Database Experience
 
-🐘 PostgreSQL
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🐬 MySQL
+- ⚡ Redis
+- 🔗 Database Relationships
+- 📊 Query Optimization
+- 🧩 Database Design
+- 🔄 Migrations & Seeders
 
-🍃 MongoDB
-
-🐬 MySQL
-
-⚡ Redis
-
-🔗 Database Relationships
-
-📊 Query Optimization
-
-🧩 Database Design
-
-🔄 Migrations & Seeders
+---
 
 <!-- ========================================================= -->
-
 <!--                     MOBILE DEVELOPMENT                    -->
-
 <!-- ========================================================= -->
 
-📱 Mobile Development
+## 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
-Flutter Experience
+### Flutter Experience
 
-📱 Cross-platform mobile application development
+- 📱 Cross-platform mobile application development
+- 🎨 Modern UI/UX implementation
+- 🔗 REST API integration
+- 🔐 Authentication
+- 📊 Dashboard development
+- 📄 PDF generation
+- 🖨️ Printing & sharing
+- 📷 Image handling
+- 🔔 Notifications
+- 💾 Local storage
 
-🎨 Modern UI/UX implementation
-
-🔗 REST API integration
-
-🔐 Authentication
-
-📊 Dashboard development
-
-📄 PDF generation
-
-🖨️ Printing & sharing
-
-📷 Image handling
-
-🔔 Notifications
-
-💾 Local storage
+---
 
 <!-- ========================================================= -->
-
 <!--                       CONNECT WITH ME                     -->
-
 <!-- ========================================================= -->
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -374,13 +317,13 @@ Flutter Experience
 
 </p>
 
-<!-- ========================================================= -->
+---
 
+<!-- ========================================================= -->
 <!--                      CODING PROFILES                      -->
-
 <!-- ========================================================= -->
 
-🧠 Coding Profiles
+## 🧠 Coding Profiles
 
 <p align="center">
 
@@ -414,31 +357,30 @@ Flutter Experience
 
 </p>
 
-<!-- ========================================================= -->
+---
 
+
+<!-- ========================================================= -->
 <!--                    ACTIVITY GRAPH                         -->
-
 <!-- ========================================================= -->
 
-⚡ GitHub Activity Graph
+## ⚡ GitHub Activity Graph
 
 <p align="center">
   <a href="https://github.com/shakibkhan13">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=shakibkhan13&theme=github-compact&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shakibkhan13&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true"
       alt="Shakib Khan Sourov GitHub Activity Graph"
       width="100%"
     />
   </a>
 </p>
-
+---
 <!-- ========================================================= -->
-
 <!--                  CONTRIBUTION SNAKE                       -->
-
 <!-- ========================================================= -->
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -447,97 +389,78 @@ Flutter Experience
       srcset="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake-dark.svg"
     />
 
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
-/>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
+    />
 
-<img
-  src="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
+    <img
+      src="https://raw.githubusercontent.com/shakibkhan13/shakibkhan13/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
 
+---
+
 <!-- ========================================================= -->
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,typescript,docker,linux,aws" />
 </p>
 
-🧠 Advanced Backend Architecture
+- 🧠 Advanced Backend Architecture
+- 🏗️ System Design
+- 🔐 Application Security
+- ⚡ Performance Optimization
+- 🐳 Docker & Containerization
+- ☁️ Cloud Computing
+- 🔄 CI/CD
+- 🚀 DevOps
+- 📊 Scalable Database Architecture
 
-🏗️ System Design
-
-🔐 Application Security
-
-⚡ Performance Optimization
-
-🐳 Docker & Containerization
-
-☁️ Cloud Computing
-
-🔄 CI/CD
-
-🚀 DevOps
-
-📊 Scalable Database Architecture
+---
 
 <!-- ========================================================= -->
-
 <!--                         GITHUB GOALS                      -->
-
 <!-- ========================================================= -->
 
-🎯 GitHub Goals
+## 🎯 GitHub Goals
 
-⭐ Build high-quality open-source projects
+- ⭐ Build high-quality open-source projects
+- 🚀 Contribute to open-source communities
+- 🧠 Improve Data Structures & Algorithms
+- 🏗️ Master System Design
+- ☁️ Become stronger in Cloud & DevOps
+- 📱 Build more production-ready applications
+- 🤝 Collaborate with developers worldwide
 
-🚀 Contribute to open-source communities
-
-🧠 Improve Data Structures & Algorithms
-
-🏗️ Master System Design
-
-☁️ Become stronger in Cloud & DevOps
-
-📱 Build more production-ready applications
-
-🤝 Collaborate with developers worldwide
+---
 
 <!-- ========================================================= -->
-
 <!--                         FUN FACTS                         -->
-
 <!-- ========================================================= -->
 
-⚡ Fun Facts
+## ⚡ Fun Facts
 
-💻 I enjoy turning ideas into real-world applications.
+- 💻 I enjoy turning ideas into real-world applications.
+- 🧠 I love solving programming problems.
+- 🚀 Always experimenting with new technologies.
+- 🍔 Food enthusiast.
+- 🌍 Love traveling and exploring new places.
+- 📚 Believe in continuous learning.
+- ☕ Coffee + Code = ❤️
 
-🧠 I love solving programming problems.
-
-🚀 Always experimenting with new technologies.
-
-🍔 Food enthusiast.
-
-🌍 Love traveling and exploring new places.
-
-📚 Believe in continuous learning.
-
-☕ Coffee + Code = ❤️
+---
 
 <!-- ========================================================= -->
-
 <!--                    DEVELOPER QUOTE                        -->
-
 <!-- ========================================================= -->
 
-✨ Developer Quote
+## ✨ Developer Quote
 
 <p align="center">
   <img
@@ -546,10 +469,10 @@ Flutter Experience
   />
 </p>
 
+---
+
 <!-- ========================================================= -->
-
 <!--                           FOOTER                          -->
-
 <!-- ========================================================= -->
 
 <p align="center">
@@ -562,3 +485,4 @@ Flutter Experience
     alt="Footer"
   />
 </p>
+ 
