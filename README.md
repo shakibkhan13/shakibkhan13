@@ -367,15 +367,15 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
 ## âš¡ GitHub Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shakibkhan13&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <a href="https://github.com/shakibkhan13">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shakibkhan13&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true"
+      alt="Shakib Khan Sourov GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
-
 ---
-
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
