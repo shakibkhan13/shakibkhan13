@@ -246,7 +246,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
 
 <p align="center">
 
-  <a href="https://github.com/shakibkhan13" target="_blank">
+  <a href="[https://github.com/shakibkhan13](https://github.com/shakibkhan13)" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=github"
       height="45"
@@ -254,7 +254,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
     />
   </a>
 
-  <a href="https://linkedin.com/in/mdshakibkhan" target="_blank">
+  <a href="[https://linkedin.com/in/mdshakibkhan](https://www.linkedin.com/in/shakibkhansourov/)" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       height="45"
@@ -262,7 +262,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
     />
   </a>
 
-  <a href="https://twitter.com/mdshakibkhan019" target="_blank">
+  <a href="[https://twitter.com/mdshakibkhan019](https://x.com/mdshakib733493)" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=twitter"
       height="45"
@@ -270,7 +270,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
     />
   </a>
 
-  <a href="https://facebook.com/sourovhasan" target="_blank">
+  <a href="[https://facebook.com/sourovhasan](https://www.facebook.com/showrov.hasan.3760)" target="_blank">
     <img
       src="[https://skillicons.dev/icons?i=facebook](https://cdn.simpleicons.org/facebook/1877F2)"
       height="45"
