@@ -181,7 +181,6 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 
 - 🟢 Node.js
 - 🚂 Express.js
-- 🏗️ Nest.js
 - 🔗 RESTful API Development
 - 🔐 JWT Authentication
 - 🔑 Role-Based Access Control
@@ -273,7 +272,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 
   <a href="https://facebook.com/sourovhasan" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=facebook"
+      src="[https://skillicons.dev/icons?i=facebook](https://cdn.simpleicons.org/facebook/1877F2)"
       height="45"
       alt="Facebook"
     />
