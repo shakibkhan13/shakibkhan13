@@ -297,14 +297,14 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh ðŸ
     />
   </a>
 
-  <a href="https://linkedin.com/in/mdshakibkhan">
+  <a href="[https://linkedin.com/in/mdshakibkhan](https://www.linkedin.com/in/shakibkhansourov/)">
     <img
       src="https://img.shields.io/badge/LinkedIn-Md%20Shakib%20Khan%20Sourov-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://github.com/shakibkhan13">
+  <a href="[https://github.com/shakibkhan13](https://github.com/shakibkhan13)">
     <img
       src="https://img.shields.io/badge/GitHub-shakibkhan13-black?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
