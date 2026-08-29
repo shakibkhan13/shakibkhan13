@@ -106,8 +106,8 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p> 
 
 ### 📱 Mobile Development
 
@@ -118,7 +118,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql," />
 </p>
 
 ### 🔧 Tools & DevOps
@@ -136,7 +136,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 ## 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,c,dart,php" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,c,dart" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 ## ⚙️ Backend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Backend Experience
@@ -182,8 +182,6 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 - 🟢 Node.js
 - 🚂 Express.js
 - 🏗️ Nest.js
-- 🐘 PHP
-- 🔥 Laravel
 - 🔗 RESTful API Development
 - 🔐 JWT Authentication
 - 🔑 Role-Based Access Control
@@ -201,7 +199,7 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 ## 🗄️ Database Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Database Experience
@@ -209,7 +207,6 @@ I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh �
 - 🐘 PostgreSQL
 - 🍃 MongoDB
 - 🐬 MySQL
-- ⚡ Redis
 - 🔗 Database Relationships
 - 📊 Query Optimization
 - 🧩 Database Design
