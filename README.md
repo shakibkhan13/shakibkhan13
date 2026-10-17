@@ -16,10 +16,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=shakibkhan13"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=shakibkhan13" alt="Profile Views" />
 </p>
 
 <p align="center">
