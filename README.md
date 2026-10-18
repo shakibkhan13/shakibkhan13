@@ -16,7 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/shakibkhan13.svg?style=flat-square&label=Profile%20Views" alt="Profile Views" />
+  <img
+    src="https://hits.sh/github.com/shakibkhan13.svg?label=Profile%20Views&color=0e75b6&style=flat-square&extraCount=1500"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
