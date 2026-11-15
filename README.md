@@ -1,109 +1,439 @@
+<!-- ========================================================= -->
+<!--                       PROFILE HEADER                      -->
+<!-- ========================================================= -->
+
+<h1 align="center">Hi there, I'm Md Shakib Khan Sourov 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=800&height=60&lines=Md+Shakib+Khan+Sourov" alt="Name" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Web+%26+Mobile+Application+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Always+Learning+%26+Building+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+Developer;Software+Engineer;Web+%26+Mobile+Application+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Flutter;Building+Scalable+%26+Secure+Applications" alt="Typing SVG" />
+  <strong>💻 Full Stack Developer | 🚀 Software Engineer | 📱 App Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shakibkhansourov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mds893472@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/mdshakib733493"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/showrov.hasan.3760"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/md_shakib_khan_sourov12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img
+    src="https://hits.sh/github.com/shakibkhan13.svg?label=Profile%20Views&color=0e75b6&style=flat-square&extraCount=1500"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakibkhan13"><img src="https://img.shields.io/github/followers/shakibkhan13?label=Followers&style=for-the-badge&logo=github&color=8A2BE2" alt="GitHub Followers" /></a>
-  <a href="https://github.com/shakibkhan13?tab=repositories"><img src="https://img.shields.io/github/stars/shakibkhan13?label=Stars&style=for-the-badge&logo=github&color=FFB000" alt="GitHub Stars" /></a>
+  <a href="https://github.com/shakibkhan13">
+    <img
+      src="https://img.shields.io/github/followers/shakibkhan13?label=Followers&style=flat&color=0e75b6"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <a href="https://github.com/shakibkhan13?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/shakibkhan13?label=Stars&style=flat&color=0e75b6"
+      alt="GitHub Stars"
+    />
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                         ABOUT ME                          -->
+<!-- ========================================================= -->
 
-Full Stack Developer and Software Engineer based in **Bangladesh 🇧🇩**, specializing in the **JavaScript / TypeScript ecosystem** and **Flutter**. I work across the entire development lifecycle — database design, REST API development, frontend engineering, mobile applications and deployment.
+## 🚀 About Me
 
-I have built **business management systems**, **e-commerce platforms** and **transport management solutions**, with a strong focus on clean architecture, security and maintainable code.
+<img
+  align="right"
+  alt="Coding"
+  width="380"
+  src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp"
+/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+I'm a passionate **Full Stack Developer and Software Engineer from Bangladesh 🇧🇩**, focused on building scalable, modern, secure, and user-friendly software applications.
 
-## 🛠️ Tech Stack
+### 👨‍💻 What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,dart,react,nextjs,redux,tailwind,mui,html,css,nodejs,express,flutter,androidstudio,postgres,mongodb,mysql,docker,git,github,gitlab,postman,vercel,vscode,linux&perline=14" alt="Tech Stack" />
-</p>
+- 🚀 Build modern **Full Stack Web Applications**
+- ⚛️ Develop frontend applications using **React.js & Next.js**
+- 🖥️ Build backend systems using **Node.js & Express.js**
+- 📱 Develop cross-platform mobile applications using **Flutter**
+- 🔗 Design and integrate **RESTful APIs**
+- 🗄️ Work with **PostgreSQL, MongoDB & MySQL**
+- 🔐 Implement authentication and authorization systems
+- 📊 Develop business management systems
+- 🛒 Build e-commerce platforms
+- 🚗 Develop transport management solutions
+- ☁️ Work with deployment and cloud technologies
+- 🧠 Continuously improve problem-solving and system design skills
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br clear="right"/>
 
-## 🚀 Core Competencies
+---
 
-### 🎨 Frontend Engineering
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### ⚙️ Backend Engineering
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/Role_Based_Access-DC143C?style=for-the-badge&logo=auth0&logoColor=white)
-![Payment](https://img.shields.io/badge/Payment_Gateway-00C853?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### 🗄️ Database Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-`Schema Design` · `Relationships` · `Query Optimization` · `Migrations & Seeders`
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-`Cross-platform Apps` · `REST API Integration` · `Authentication` · `Dashboards` · `PDF Generation & Printing` · `Notifications` · `Local Storage`
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ========================================================= -->
+<!--                      CURRENT FOCUS                        -->
+<!-- ========================================================= -->
 
 ## 🎯 Current Focus
 
-- 🏗️ Advanced backend architecture and **System Design**
-- 🔐 Application security and performance optimization
-- 🐳 **Docker**, **CI/CD**, **DevOps** and ☁️ **Cloud Computing (AWS)**
-- 📊 Scalable database architecture
-- 🧠 Data Structures & Algorithms
-- 🚀 Building production-ready applications and contributing to open source
+- 🌱 Deepening my knowledge of **Node.js & Express.js**
+- ⚛️ Improving advanced **React.js & Next.js**
+- 🧠 Learning **System Design & Software Architecture**
+- 🔐 Improving application security
+- 🐳 Learning **Docker & DevOps**
+- ☁️ Exploring **Cloud Computing**
+- 🚀 Building production-ready applications
+- 📚 Practicing clean, scalable and maintainable code
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-## 🏆 Competitive Programming
+<!-- ========================================================= -->
+<!--                       TECH STACK                         -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://leetcode.com/mdshakibkhansourov"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/mdshakib2003"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/md_shakib_khan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.hackerrank.com/profile/mdshakib"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 📫 Let's Connect
+### 💻 Frontend Development
 
 <p align="center">
-  <a href="mailto:mds893472@gmail.com"><img src="https://img.shields.io/badge/Email-mds893472%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shakibkhansourov/"><img src="https://img.shields.io/badge/LinkedIn-Md%20Shakib%20Khan%20Sourov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,mui" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p> 
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql," />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,vercel,vscode,linux" />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                  PROGRAMMING LANGUAGES                    -->
+<!-- ========================================================= -->
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,c,dart" />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                       FRONTEND                            -->
+<!-- ========================================================= -->
+
+## 🎨 Frontend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,html,css,javascript,typescript" />
+</p>
+
+### Frontend Experience
+
+- ⚛️ React.js
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 🧩 Material UI
+- 🔄 Context API
+- 🗃️ Redux / Redux Toolkit
+- 📦 Zustand
+- 📝 React Hook Form
+- ✅ Zod
+- 🌐 REST API Integration
+- 📱 Responsive UI Development
+
+---
+
+<!-- ========================================================= -->
+<!--                         BACKEND                           -->
+<!-- ========================================================= -->
+
+## ⚙️ Backend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Backend Experience
+
+- 🟢 Node.js
+- 🚂 Express.js
+- 🔗 RESTful API Development
+- 🔐 JWT Authentication
+- 🔑 Role-Based Access Control
+- 📧 Email & OTP Verification
+- 📱 SMS API Integration
+- 💳 Payment Gateway Integration
+- ☁️ Cloudinary Integration
+
+---
+
+<!-- ========================================================= -->
+<!--                         DATABASE                          -->
+<!-- ========================================================= -->
+
+## 🗄️ Database Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Database Experience
+
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🐬 MySQL
+- 🔗 Database Relationships
+- 📊 Query Optimization
+- 🧩 Database Design
+- 🔄 Migrations & Seeders
+
+---
+
+<!-- ========================================================= -->
+<!--                     MOBILE DEVELOPMENT                    -->
+<!-- ========================================================= -->
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
+
+### Flutter Experience
+
+- 📱 Cross-platform mobile application development
+- 🎨 Modern UI/UX implementation
+- 🔗 REST API integration
+- 🔐 Authentication
+- 📊 Dashboard development
+- 📄 PDF generation
+- 🖨️ Printing & sharing
+- 📷 Image handling
+- 🔔 Notifications
+- 💾 Local storage
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONNECT WITH ME                     -->
+<!-- ========================================================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="[https://github.com/shakibkhan13](https://github.com/shakibkhan13)" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="45"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="[https://linkedin.com/in/mdshakibkhan](https://www.linkedin.com/in/shakibkhansourov/)" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="45"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="[https://twitter.com/mdshakibkhan019](https://x.com/mdshakib733493)" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter"
+      height="45"
+      alt="Twitter"
+    />
+  </a>
+
+  <a href="[https://facebook.com/sourovhasan](https://www.facebook.com/showrov.hasan.3760)" target="_blank">
+    <img
+      src="[https://skillicons.dev/icons?i=facebook](https://cdn.simpleicons.org/facebook/1877F2)"
+      height="45"
+      alt="Facebook"
+    />
+  </a>
+
+  <a href="https://instagram.com/md_shakib_khan_sourov12" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      height="45"
+      alt="Instagram"
+    />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Open+to+collaboration+%26+new+opportunities;Code.+Create.+Innovate.;Keep+Coding+%E2%80%A2+Keep+Learning+%E2%80%A2+Keep+Growing" alt="Footer" />
+
+  <a href="mailto:mds893472@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-mds893472%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="[https://linkedin.com/in/mdshakibkhan](https://www.linkedin.com/in/shakibkhansourov/)">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Md%20Shakib%20Khan%20Sourov-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="[https://github.com/shakibkhan13](https://github.com/shakibkhan13)">
+    <img
+      src="https://img.shields.io/badge/GitHub-shakibkhan13-black?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
 </p>
+
+---
+
+<!-- ========================================================= -->
+<!--                      CODING PROFILES                      -->
+<!-- ========================================================= -->
+
+## 🧠 Coding Profiles
+
+<p align="center">
+
+  <a href="https://www.codechef.com/users/md_shakib_khan" target="_blank">
+    <img
+      src="https://img.shields.io/badge/CodeChef-md__shakib__khan-brown?style=for-the-badge&logo=codechef&logoColor=white"
+      alt="CodeChef"
+    />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/mdshakib" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HackerRank-mdshakib-green?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
+  </a>
+
+  <a href="https://codeforces.com/profile/mdshakib2003" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Codeforces-mdshakib2003-blue?style=for-the-badge&logo=codeforces&logoColor=white"
+      alt="Codeforces"
+    />
+  </a>
+
+  <a href="https://leetcode.com/mdshakibkhansourov" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-mdshakibkhansourov-orange?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode"
+    />
+  </a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,typescript,docker,linux,aws" />
+</p>
+
+- 🧠 Advanced Backend Architecture
+- 🏗️ System Design
+- 🔐 Application Security
+- ⚡ Performance Optimization
+- 🐳 Docker & Containerization
+- ☁️ Cloud Computing
+- 🔄 CI/CD
+- 🚀 DevOps
+- 📊 Scalable Database Architecture
+
+---
+
+<!-- ========================================================= -->
+<!--                         GITHUB GOALS                      -->
+<!-- ========================================================= -->
+
+## 🎯 GitHub Goals
+
+- ⭐ Build high-quality open-source projects
+- 🚀 Contribute to open-source communities
+- 🧠 Improve Data Structures & Algorithms
+- 🏗️ Master System Design
+- ☁️ Become stronger in Cloud & DevOps
+- 📱 Build more production-ready applications
+- 🤝 Collaborate with developers worldwide
+
+---
+
+<!-- ========================================================= -->
+<!--                         FUN FACTS                         -->
+<!-- ========================================================= -->
+
+## ⚡ Fun Facts
+
+- 💻 I enjoy turning ideas into real-world applications.
+- 🧠 I love solving programming problems.
+- 🚀 Always experimenting with new technologies.
+- 🍔 Food enthusiast.
+- 🌍 Love traveling and exploring new places.
+- 📚 Believe in continuous learning.
+- ☕ Coffee + Code = ❤️
+
+---
+
+<!-- ========================================================= -->
+<!--                    DEVELOPER QUOTE                        -->
+<!-- ========================================================= -->
+
+## ✨ Developer Quote
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.;Build+Things+That+Matter.;Learn.+Build.+Improve.;Think+Big.+Build+Bigger.;Never+Stop+Learning+%F0%9F%9A%80"
+    alt="Developer Quote"
+  />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                           FOOTER                          -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <strong>🚀 Keep Coding • Keep Learning • Keep Growing</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"
+    alt="Footer"
+  />
+</p>
+ 
